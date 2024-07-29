@@ -73,6 +73,12 @@ export interface SelectListProps  {
     */
     searchPlaceholder?: string,
 
+     /**
+    * set searchPlaceholderColor
+    */
+
+     searchPlaceholderColor? : string,
+
     /**
     * Trigger an action when option is selected
     */
