@@ -138,7 +138,7 @@ const SelectList: React.FC<SelectListProps> =  ({
                             }
                             
                             <TextInput 
-                                placeholder={searchPlaceholder}
+                                placeholder={searchPlaceholder }
                                 placeholderTextColor={searchPlaceholderColor}
                                 onChangeText={(val) => {
                                     let result =  data.filter((item: L1Keys) => {
@@ -179,7 +179,7 @@ const SelectList: React.FC<SelectListProps> =  ({
                                 <Image 
                                     source={require('../assets/images/chevron.png')}
                                     resizeMode='contain'
-                                    style={{width:20,height:20}}
+                                    style={{width:10,height:10}}
                                 />
                             :
                                 arrowicon
@@ -258,8 +258,8 @@ export default SelectList;
 
 const styles = StyleSheet.create({
     wrapper:{ borderWidth:1,borderRadius:10,borderColor:'gray',paddingHorizontal:20,paddingVertical:12,flexDirection:'row',justifyContent:'space-between' },
-    dropdown:{ borderWidth:1,borderRadius:10,borderColor:'gray',marginTop:10,overflow:'hidden'},
-    option:{ paddingHorizontal:20,paddingVertical:8,overflow:'hidden' },
+    dropdown:{ borderWidth:1,borderRadius:10,borderColor:'gray',marginTop:10,overflow:'hidden',marginBottom:20},
+    option:{ paddingHorizontal:20,paddingVertical:8,overflow:'hidden'},
     disabledoption:{ paddingHorizontal:20,paddingVertical:8,flexDirection:'row',alignItems:'center', backgroundColor:'whitesmoke',opacity:0.9}
 
 })
