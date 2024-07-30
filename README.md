@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  ⭐ React Native Dropdown List </h1>
+  ⭐ React Native Custom Dropdown List </h1>
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Multiple Select List            |  Select List
 </p>
 <br>
 
-<h4>Light weight and <b>Easy</b> to use dropdown list.</h4>
+<h4>Light weight and <b>Easy</b> to use Custom dropdown list.</h4>
 
 -   Style it your way with style props of every view.
 -   Smooth performance on all platforms IOS, Android and Web.
@@ -44,21 +44,21 @@ Multiple Select List            |  Select List
 # 🔌 Installation
 
 ```sh
-$ npm install react-native-dropdown-list
+$ npm install react-native-custom-dropdown-list
 
 ```
 
 OR
 
 ```sh
-$ yarn add react-native-dropdown-list
+$ yarn add react-native-custom-dropdown-list
 ```
 
 <br>
 
 # 😎 Basic Usage for SelectList
 ```jsx
-import { SelectList } from 'react-native-dropdown-list'
+import { SelectList } from 'react-native-custom-dropdown-list'
 
 const App = () => {
 
@@ -88,7 +88,7 @@ const App = () => {
 
 # 😎 Basic Usage for MultipleSelectList
 ```jsx
-import { MultipleSelectList } from 'react-native-dropdown-list'
+import { MultipleSelectList } from 'react-native-custom-dropdown-list'
 
 const App = () => {
 
@@ -158,7 +158,7 @@ const App = () => {
 
 # 😎 Advanced Usage
 ```jsx
-import { SelectList } from 'react-native-dropdown-list'
+import { SelectList } from 'react-native-custom-dropdown-list'
 
 const App = () => {
 
@@ -192,7 +192,7 @@ const App = () => {
 
 # 😎 Getting Options From Database
 ```jsx
-import { SelectList } from 'react-native-dropdown-list'
+import { SelectList } from 'react-native-custom-dropdown-list'
 
 const App = () => {
 

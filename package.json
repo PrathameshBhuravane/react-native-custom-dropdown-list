@@ -1,5 +1,5 @@
 {
-  "name": "react-native-dropdown-list",
+  "name": "react-native-custom-dropdown-list",
   "version": "1.0.0",
   "description": "⭐ React Native Select List Equivalent to Html's Select with options\"",
   "main": "index.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrathameshBhuravane/react-native-dropdown-list"
+    "url": "git+https://github.com/PrathameshBhuravane/react-native-custom-dropdown-list"
   },
   "keywords": [
     "picker",
@@ -44,7 +44,7 @@
   "author": "Prathamesh Bhuravane",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PrathameshBhuravane/react-native-dropdown-list/issues"
+    "url": "https://github.com/PrathameshBhuravane/react-native-custom-dropdown-list/issues"
   },
-  "homepage": "https://github.com/PrathameshBhuravane/react-native-dropdown-list#readme"
+  "homepage": "https://github.com/PrathameshBhuravane/react-native-custom-dropdown-list#readme"
 }
