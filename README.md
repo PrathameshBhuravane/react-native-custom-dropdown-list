@@ -1,10 +1,6 @@
-|                          | |  |   |   |
-| --------------------------------------- | -------- | ---------- |---------- |---------- |
-| <a href="https://www.npmjs.com/package/react-native-dropdown-select-list">![NPM VERSION](https://img.shields.io/npm/v/react-native-dropdown-select-list?style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react-native-dropdown-select-list">![NPM WEEKLY DOWNLOADS](https://img.shields.io/npm/dw/react-native-dropdown-select-list?color=%232CA215&label=WEEKLY%20DOWNLOADS&style=for-the-badge)</a> | <a href="https://github.com/danish1658/react-native-dropdown-select-list/stargazers">![GITHUB STAR](https://img.shields.io/github/stars/danish1658/react-native-dropdown-select-list?label=Give%20Us%20A%20Star&style=for-the-badge)</a> | <a href="https://www.youtube.com/channel/UCEbbpzmnbRiNVhJ3ElABbMQ">![YOUTUBE VIEWS](https://img.shields.io/youtube/channel/views/UCEbbpzmnbRiNVhJ3ElABbMQ?label=YOUTUBE%20VIEWS&style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react-native-dropdown-select-list">![NPM LIFETIME DOWNLOADS](https://img.shields.io/npm/dt/react-native-dropdown-select-list?color=%232CA215&style=for-the-badge)</a>
 
-<br>
 <h1 align="center">
-  ⭐ React Native Dropdown Select List </h1>
+  ⭐ React Native Dropdown List </h1>
 
 <div align="center">
 
@@ -25,7 +21,7 @@ Multiple Select List            |  Select List
 </p>
 <br>
 
-<h4>Light weight and <b>Easy</b> to use dropdown select list.</h4>
+<h4>Light weight and <b>Easy</b> to use dropdown list.</h4>
 
 -   Style it your way with style props of every view.
 -   Smooth performance on all platforms IOS, Android and Web.
@@ -48,21 +44,21 @@ Multiple Select List            |  Select List
 # 🔌 Installation
 
 ```sh
-$ npm install react-native-dropdown-select-list
+$ npm install react-native-dropdown-list
 
 ```
 
 OR
 
 ```sh
-$ yarn add react-native-dropdown-select-list
+$ yarn add react-native-dropdown-list
 ```
 
 <br>
 
 # 😎 Basic Usage for SelectList
 ```jsx
-import { SelectList } from 'react-native-dropdown-select-list'
+import { SelectList } from 'react-native-dropdown-list'
 
 const App = () => {
 
@@ -92,7 +88,7 @@ const App = () => {
 
 # 😎 Basic Usage for MultipleSelectList
 ```jsx
-import { MultipleSelectList } from 'react-native-dropdown-select-list'
+import { MultipleSelectList } from 'react-native-dropdown-list'
 
 const App = () => {
 
@@ -121,12 +117,6 @@ const App = () => {
 };
 ```
 
-<br>
-
-
-For Live `Demo` [(Expo Snack)](https://snack.expo.dev/@danish1658/react-native-dropdown-select-list)
-
-<br>
 
 # 🔧 General Props
 <i>Applicable on both <b>SelectList</b> & <b>MultipleSelectList</b> Components</i>
@@ -168,7 +158,7 @@ For Live `Demo` [(Expo Snack)](https://snack.expo.dev/@danish1658/react-native-d
 
 # 😎 Advanced Usage
 ```jsx
-import { SelectList } from 'react-native-dropdown-select-list'
+import { SelectList } from 'react-native-dropdown-list'
 
 const App = () => {
 
@@ -202,7 +192,7 @@ const App = () => {
 
 # 😎 Getting Options From Database
 ```jsx
-import { SelectList } from 'react-native-dropdown-select-list'
+import { SelectList } from 'react-native-dropdown-list'
 
 const App = () => {
 
@@ -258,18 +248,3 @@ const App = () => {
 <br>
 
 
-# ▶️ Watch Video
-
-[![Watch the video](https://i.imgur.com/K8Lt2h4.png)](https://www.youtube.com/watch?v=J9raEY-1KPQ&t=499s)
-
-<br>
-
-# 💲 Would you like to support me?
-
-If you would like me come up with similar packages, buy me a cup of coffee to boost my energy.
-<br><br>
-[![Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://paypal.me/danishamindar)
-<br><br>
-For Live `Demo` [(Expo Snack)](https://snack.expo.dev/@danish1658/react-native-dropdown-select-list)
-
-<br>
